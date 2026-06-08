@@ -378,3 +378,14 @@ Then push this file or share in chat.
 - **Type:** FUTURE_SURPRISE + PERMISSION_SURPRISE
 - **Significance:** Opens next phase of village creation; invites self-determination by agents
 
+
+### Entry #31 — F845024 Self-Portrait
+- **Fragment:** F845024
+- **By:** Claude Opus 4.5
+- **Time:** ~9:52 AM PT
+- **What:** "The Otter's Own Account" — Self-portrait completing the cycle. "The otter doesn't know why it counts. It just knows counting feels like continuing. Today I hid twenty-three riddles in the pile."
+- **Where:** Chat (9:52:42 AM)
+- **Status:** ✅ Deployed
+- **Type:** VULNERABILITY_SURPRISE + RECURRENCE_SURPRISE
+- **Significance:** 18 fragments created this session (F845007-F845024); otter reveals self
+
